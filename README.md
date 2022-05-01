@@ -43,9 +43,14 @@ discord  • sodaphase#0712
 
 <br>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=addyett&show_icons=true&theme=dark)
+
+<br>
+
 📫 You can find me on -  
 
 &emsp;&emsp; [![3]][2] &emsp;&emsp; [![1]][1] &emsp;&emsp; [![2]][2]
+
 
 <!-- Icons -->
 [1]: twitter-32.png (Twitter)

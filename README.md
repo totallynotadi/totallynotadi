@@ -59,10 +59,18 @@ discord  • sodaphase#0712
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=addyett&show_icons=true&theme=dark&compact=true"/>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addyett&layout=compact&theme=dark&langs_count=6"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addyett&layout=compact&theme=dark&langs_count=6"/>
 </p>
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 📫 You can find me on -  

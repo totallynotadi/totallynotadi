@@ -43,9 +43,11 @@ discord  • sodaphase#0712
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=addyett&show_icons=true&theme=dark)
 
-<br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=addyett&show_icons=true&theme=dark" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addyett&theme=dark" />
+<br>  
 
 📫 You can find me on -  
 

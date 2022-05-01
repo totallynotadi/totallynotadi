@@ -44,33 +44,8 @@ discord  • sodaphase#0712
 
 <br>
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=addyett&show_icons=true&theme=dark) -->
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="" />
-</a> -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=addyett&show_icons=true&theme=dark)
 
-<!-- <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=addyett&show_icons=true&theme=dark&compact=true" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addyett&layout=compact&theme=dark&langs_count=6" />
-</div> -->
-
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=addyett&show_icons=true&theme=dark&compact=true"/>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addyett&layout=compact&theme=dark&langs_count=6"/>
-</p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 
 📫 You can find me on -  

@@ -14,9 +14,10 @@
 <img align="left" src="argonaut0.png" width="308" />
 
 
-```bash
+``` zsh
 addyet@github
 ------------------------------
+
 os       • Manjaro x86_64
 shell    • bash 3.3.1
 

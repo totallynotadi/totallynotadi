@@ -32,3 +32,31 @@ hobbies  • music, reading,
 discord  • sodaphase#0712
 
 ```
+
+---
+
+🌱 I'm Aditya, a young lad in love with anything and everything Python. I love creating useful and memorable stuff that many will appreciate. Besides Python, I work with javascript, Flutter, and lua as well. I design UIs while listening to music in my free time (to later implement those designs to practice flutter :)
+
+⚡ Technologies I work with - 
+<br>
+
+&emsp;&emsp; ![4]
+
+
+📫 You can find me on -  
+<br>
+
+&emsp;&emsp; [![3]][2] &emsp;&emsp; [![2]][2] &emsp;&emsp; [![1]][1]
+
+<!-- Icons -->
+[1]: twitter-32.png (Twitter)
+[2]: reddit-32.png (Reddit)
+[3]: spotify-32.png (Spotify)
+
+[4]: linux-32.png (OS - Linux)
+
+
+<!-- Links to social media accounts -->
+[1]: https://twitter.com/addyett1
+[2]: https://www.reddit.com/user/No_Muffin6385
+[3]: https://open.spotify.com/user/bwygdf3k5na8cdy8ek3ofoteq

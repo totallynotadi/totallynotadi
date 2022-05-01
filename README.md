@@ -37,16 +37,14 @@ discord  • sodaphase#0712
 
 🌱 I'm Aditya, a young lad in love with anything and everything Python. I love creating useful and memorable stuff that many will appreciate. Besides Python, I work with JavaScript, Flutter, and Lua as well. I design UIs while listening to music in my free time (to later implement those designs to practice flutter :)
 
-⚡ Technologies I work with - 
+⚡ Technologies I work with  
+&emsp;&emsp; ![4] &emsp;&emsp; ![5] &emsp;&emsp; ![6] &emsp;&emsp; ![-] &emsp;&emsp; ![7]
+
 <br>
 
-&emsp;&emsp; ![4] &emsp;&emsp; ![5] &emsp;&emsp; ![6] &emsp;&emsp; ![-] &emsp;&emsp; ![7    ]
-
-
-📫 You can find me on -
+📫 You can find me on  
 <br>
-
-&emsp;&emsp; [![3]][2] &emsp;&emsp; [![1]][1] &emsp;&emsp; [![2]][2] 
+&emsp;&emsp; ![3][2] &emsp;&emsp; ![1][1] &emsp;&emsp; ![2][2]
 
 <!-- Icons -->
 [1]: twitter-32.png (Twitter)

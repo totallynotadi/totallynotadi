@@ -39,18 +39,23 @@ discord  • sodaphase#0712
 <br>
 
 ⚡ Technologies I work with -  
-&emsp;&emsp; [![4]][-] &emsp;&emsp; [![6]][-] &emsp;&emsp;  [![5]][-] &emsp;&emsp; [![8]][-] &emsp;&emsp; [![7]][-] &emsp;&emsp; [![9]][-] &emsp;&emsp; [![10]][-]
+
+&emsp;&emsp; [![4]][-] &emsp;&emsp; [![6]][-] &emsp;&emsp;  [![5]][-] &emsp;&emsp; [![9]][-] &emsp;&emsp; [![10]][-]
 
 <br>
 
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=addyett&show_icons=true&theme=dark) -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center    " src="https://github-readme-stats.vercel.app/api?username=addyett&show_icons=true&theme=dark&compact=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addyett&layout=compact&theme=dark&langs_count=6" />
+</a>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=addyett&show_icons=true&theme=dark" />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addyett&theme=dark" />
-<br>  
+<br>
 
 📫 You can find me on -  
-
+<br>
 &emsp;&emsp; [![3]][2] &emsp;&emsp; [![1]][1] &emsp;&emsp; [![2]][2]
 
 

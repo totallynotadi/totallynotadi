@@ -1,10 +1,6 @@
-### Hi there 👋
+# Hi there, I'm Aditya &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
-**addyett/addyett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +10,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- <img align="left" src="https://github.com/Dyzean.png" width="308" /> -->
+<img align="left" src="argonaut0.png" width="308" />
+
+
+```haskell
+addyet@github
+------------------------------
+os       • Manjaro x86_64
+shell    • bash 3.3.1
+
+pronouns • he/him
+
+learning • Flutter, html, sass, node.js,
+           bash, lua
+
+hobbies  • music, reading,
+           anime / manga, drink coffee.
+
+discord  • sodaphase#0712
+
+repos    • 21
+commits  • 47
+issues   • 0
+```

@@ -13,7 +13,6 @@
 
 <img align="left" src="argonaut0.png" width="308" />
 
-
 ``` zsh
 addyet@github
 ------------------------------
@@ -37,13 +36,15 @@ discord  • sodaphase#0712
 
 🌱 I'm Aditya, a young lad in love with anything and everything Python. I love creating useful and memorable stuff that many will appreciate. Besides Python, I work with JavaScript, Flutter, and Lua as well. I design UIs while listening to music in my free time (to later implement those designs to practice flutter :)
 
+<br>
+
 ⚡ Technologies I work with -  
-&emsp;&emsp; [![4]][-] &emsp;&emsp; [![5]][-] &emsp;&emsp; [![6]][-] &emsp;&emsp; [![8]][-] &emsp;&emsp; [![7]][-]
+&emsp;&emsp; [![4]][-] &emsp;&emsp; [![6]][-] &emsp;&emsp;  [![5]][-] &emsp;&emsp; [![8]][-] &emsp;&emsp; [![7]][-] &emsp;&emsp; [![9]][-] &emsp;&emsp; [![10]][-]
 
 <br>
 
 📫 You can find me on -  
-<br>
+
 &emsp;&emsp; [![3]][2] &emsp;&emsp; [![1]][1] &emsp;&emsp; [![2]][2]
 
 <!-- Icons -->
@@ -52,11 +53,12 @@ discord  • sodaphase#0712
 [3]: spotify-32.png (Spotify)
 
 [4]: linux-32.png (OS - Linux)
-[5]: vscode-32.png (Editor - VSCode)
+[5]: vscode-40.png (Editor - VSCode)
 [6]: python-32.png
 [7]: django-72.png
-[8]: flask-72.png
-
+[8]: flask-82.png
+[9]: js-40.png
+[10]: lua-40.png
 
 <!-- Links to social media accounts -->
 [1]: https://twitter.com/addyett1

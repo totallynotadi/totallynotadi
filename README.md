@@ -11,11 +11,10 @@
 - ⚡ Fun fact: ...
 -->
 
-<!-- <img align="left" src="https://github.com/Dyzean.png" width="308" /> -->
 <img align="left" src="argonaut0.png" width="308" />
 
 
-```haskell
+```bash
 addyet@github
 ------------------------------
 os       • Manjaro x86_64
@@ -31,7 +30,4 @@ hobbies  • music, reading,
 
 discord  • sodaphase#0712
 
-repos    • 21
-commits  • 47
-issues   • 0
 ```

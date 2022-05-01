@@ -22,10 +22,10 @@ shell    • bash 3.3.1
 
 pronouns • he/him
 
-learning • Flutter, html, sass, node.js,
-           bash, lua
+learning • Flutter, React, HTML / CSS, Node.js,
+           Bash, Lua
 
-hobbies  • music, reading,
+hobbies  • music, reading, design,
            anime / manga, drink coffee.
 
 discord  • sodaphase#0712

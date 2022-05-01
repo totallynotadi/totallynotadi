@@ -40,7 +40,7 @@ discord  • sodaphase#0712
 
 ⚡ Technologies I work with -  
 
-&emsp;&emsp; [![4]][-] &emsp;&emsp; [![6]][-] &emsp;&emsp;  [![5]][-] &emsp;&emsp; [![9]][-] &emsp;&emsp; [![10]][-]
+&emsp;&emsp; [![4]][-] &emsp;&emsp; [![6]][-] &emsp;&emsp;  [![5]][-] &emsp;&emsp; [![9]][-] &emsp;&emsp; [![10]][-]`
 
 <br>
 
@@ -51,10 +51,17 @@ discord  • sodaphase#0712
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="" />
 </a> -->
-<div style="display: flex; flex-direction: row;">
+
+<!-- <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=addyett&show_icons=true&theme=dark&compact=true" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addyett&layout=compact&theme=dark&langs_count=6" />
-</div>
+</div> -->
+
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=addyett&show_icons=true&theme=dark&compact=true"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addyett&layout=compact&theme=dark&langs_count=6"/>
+</p>
+
 
 <br>
 

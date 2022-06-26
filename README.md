@@ -1,4 +1,4 @@
-# Hi there, I'm Aditya &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm Aditya &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 <!--
 - 🔭 I’m currently working on ...
@@ -8,10 +8,10 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...`
 -->
 
-<img align="left" src="argonaut0.png" width="308" />
+<img align="left" src="argonaut0.png" width="280" height="335"/>
 
 ``` zsh
 addyet@github

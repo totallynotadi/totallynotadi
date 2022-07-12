@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...`
 -->
 
-<img align="left" src="argonaut0.png" width="250" height="290"/>
+<img align="left" src="argonaut0.png" width="250" height="290" style="border-radius: 6px;"/>
 
 ``` zsh
 addyet@github

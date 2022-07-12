@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...`
 -->
 
-<img src="argonaut0.png" width="250" height="100%" align="left" style="border-radius:6px; margin-right: 20px; padding-right:0px"/>
+<img src="argonaut0.png" width="250" height="290" align="left"/>
 
 ``` zsh
 addyet@github
@@ -51,7 +51,6 @@ discord  • sodaphase#0712
 📫 You can find me on -  
 <br>
 &emsp;&emsp; [![3]][2] &emsp;&emsp; [![1]][1] &emsp;&emsp; [![2]][2]
-
 
 <!-- Icons -->
 [1]: twitter-32.png (Twitter)

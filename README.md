@@ -11,7 +11,15 @@
 - ⚡ Fun fact: ...`
 -->
 
-<img src="argonaut0.png" width="250" height="290" align="left"/>
+<style>
+    .rounded-image {
+        border-radius: 6px;
+        padding-right: 0px;
+        margin-right: 20px;
+    }
+</style>
+
+<img class="rounded-image" src="argonaut0.png" width="250" height="290" align="left"/>
 
 ``` zsh
 addyet@github

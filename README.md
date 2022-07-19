@@ -1,5 +1,8 @@
+<center>
+
 # Hi there, I'm Aditya &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
+</center>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,30 +14,35 @@
 - ⚡ Fun fact: ...`
 -->
 
-<img src="argonaut0.png" width="250" height="290" align="left"/>
+<img src="argonaut.svg" width="250" height="290" align="left"/>
+
+<!-- <img src="argonaut0.png" width="250" height="290" align="left"/> -->
 
 ``` zsh
-addyet@github
-------------------------------
+addyet@github: ~ $ whoami
+──────────────────────────────────────────────
 
 os       • Manjaro x86_64
 shell    • bash 3.3.1
 
 pronouns • he/him
 
-learning • Flutter, React, HTML / CSS, Node.js,
-           Bash, Lua
+learning • Flutter, React, Node.js, Rust,
+		   Bash, Lua
 
-hobbies  • music, reading, design,
-           anime / manga, drink coffee.
+hobbies  • music, design,
+           anime / manga, coffee.
 
 discord  • sodaphase#0712
 
 ```
 
----
+--- 
+<br>
 
-🌱 I'm Aditya, a young lad in love with anything and everything Python. I love creating useful and memorable stuff that many will appreciate. Besides Python, I work with JavaScript, Flutter, and Lua as well. I design UIs while listening to music in my free time (to later implement those designs to practice flutter :)
+🌱
+
+I'm Aditya, a young lad in love with anything and everything Python. I love creating useful and memorable stuff that many will appreciate. Besides Python, I work with JavaScript, Flutter, and Lua as well. I design UIs while listening to music in my free time (to later implement those designs to practice flutter :)
 
 <br>
 
@@ -44,7 +52,14 @@ discord  • sodaphase#0712
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=addyett&show_icons=true&theme=dark)
+<table>
+      <tr>
+        <th><img src="https://github-readme-stats.vercel.app/api?username=addyett&show_icons=true&count_private=true&include_all_commits=true&theme=dark&show_icons=true&layout=compact&bg_color=00000000&border_color=00000000"/><br></th>
+        <th><img src="https://github-readme-stats.vercel.app/api/top-langs?username=addyett&layout=compact&show_icons=true&bg_color=00000000&border_color=00000000"/></th>
+      </tr>
+</table>
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=addyett&show_icons=true&theme=dark) -->
 
 <br>
 

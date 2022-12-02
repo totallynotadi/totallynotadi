@@ -14,7 +14,7 @@
 - ⚡ Fun fact: ...`
 -->
 
-<img src="argonaut.svg" width="250" height="290" align="left"/>
+<img src="argonaut.svg" align="left"/>
 
 <!-- <img src="argonaut0.png" width="250" height="290" align="left"/> -->
 
@@ -75,13 +75,8 @@ I'm Aditya, a young lad in love with anything and everything Python. I love crea
 [4]: linux-32.png (OS - Linux)
 [5]: vscode-40.png (Editor - VSCode)
 [6]: python-32.png
-[7]: django-72.png
-[8]: flask-82.png
 [9]: js-40.png
 [10]: lua-40.png
 
 <!-- Links to social media accounts -->
-[1]: https://twitter.com/addyett1
-[2]: https://www.reddit.com/user/No_Muffin6385
-[3]: https://open.spotify.com/user/bwygdf3k5na8cdy8ek3ofoteq
 [-]: #

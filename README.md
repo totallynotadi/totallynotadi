@@ -65,7 +65,7 @@ I'm Aditya, a young lad in love with anything and everything Python. I love crea
 
 📫 You can find me on -  
 <br>
-&emsp;&emsp; [![3]][https://open.spotify.com/user/bwygdf3k5na8cdy8ek3ofoteq] &emsp;&emsp; [![1]][https://twitter.com/HelveticaSimp] &emsp;&emsp; [![2]][https://www.reddit.com/user/No_Muffin6385]
+&emsp;&emsp; [![3]](https://open.spotify.com/user/bwygdf3k5na8cdy8ek3ofoteq) &emsp;&emsp; [![1]](https://twitter.com/HelveticaSimp) &emsp;&emsp; [![2]](https://www.reddit.com/user/No_Muffin6385)
 
 <!-- Icons -->
 [1]: twitter-32.png (Twitter)
